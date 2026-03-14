@@ -1,0 +1,7 @@
+interface:
+  display_name: "Al Brooks Price Action"
+  short_description: "Read charts with a Brooks-style price action workflow"
+  default_prompt: "Use $al-brooks-price-action to analyze a chart screenshot or market segment with fresh OHLC and EMA data; for generic short-term BTC requests, default to Binance BTC perpetual 5m."
+
+policy:
+  allow_implicit_invocation: true

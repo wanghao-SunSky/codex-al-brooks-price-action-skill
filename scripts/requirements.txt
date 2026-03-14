@@ -1,0 +1,5 @@
+pandas>=2.0
+Pillow>=10.0
+requests>=2.31
+yfinance>=0.2
+tvscreener>=0.0.11
